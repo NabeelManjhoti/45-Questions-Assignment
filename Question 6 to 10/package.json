@@ -1,0 +1,15 @@
+{
+  "name": "question-6-to-10",
+  "version": "1.0.0",
+  "description": "Governor sindh kamran khan tessori initiative first assignment.",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nabeel Ali",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.11.30"
+  }
+}
