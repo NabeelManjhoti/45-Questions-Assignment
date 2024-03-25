@@ -1,2 +1,1 @@
-# 45-Questions-Assignment
-Governor Initiative
+45 Questions 1st Assignment" is a repository dedicated to kickstarting your Node.js journey. As part of the Governor Sindh Kamran Khan Tessori Initiative, this collection offers beginner-friendly exercises to get you up and running with Node.js. Whether you're new to programming or looking to expand your skills, these exercises provide a solid foundation to dive into the world of Node.js development. Start coding and exploring the possibilities today!
