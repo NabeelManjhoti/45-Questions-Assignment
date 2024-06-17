@@ -25,7 +25,6 @@ console.log(car == 'subaru')
 
   let isNextJs:string = "Frontend";
   console.log(isNextJs === "Frontend" ?true :false);
-
   let isUpwork:string = "Social Media";
   console.log(isUpwork === "Freelance Market" ?true :false);
 
