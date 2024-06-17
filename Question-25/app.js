@@ -9,3 +9,9 @@ if (alienColor === "Green") {
     console.log("The player just earned 5 Points.");
 }
 ;
+//Example 2 Else Statment will run.
+let alienColor1 = "Red";
+if (alienColor1 === "Green") {
+    console.log("The Player just earned 5 points");
+}
+;
